@@ -20,7 +20,9 @@
         }
 
         while = usar quando n sabemos quando e a parada
-
+        
+        O que é o for in em JavaScript?
+        O laço for...in interage sobre propriedades enumeradas de um objeto, na ordem original de inserção. O laço pode ser executado para cada propriedade distinta do         o  bjeto
 
         for of
 
